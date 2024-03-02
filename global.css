@@ -1,0 +1,84 @@
+.text-center
+{
+    text-align: center;
+
+}
+.heading-small
+{
+    font-size: 1.25rem;
+}
+.heading-medium
+{
+    font-size: 1.5rem;
+}
+.heading-big
+{
+    font-size: 1.75rem;
+}
+/* colors*/
+.bg-dark-blue
+{
+    background-color: darkblue;
+}
+.bg-light-blue
+{
+    background-color: lightblue;
+}
+/*buttons*/
+.btn
+{
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    border-radius: 8px;
+    letter-spacing: 1px;
+}
+.btn-primary
+{
+    background: #336ea2;
+    border: 1px solid transparent;
+    
+}
+.btn-primary:hover
+{
+    color: #336ea2;
+    background: white;
+    border: 1px solid #336ea2;
+}
+.btn-dark
+{
+    background: #333;
+}
+.btn-dark:hover
+{
+    color: #336ea2;
+    background: white;
+    border: 1px solid #333;
+}
+.btn-block
+{
+    width: 100%;
+    text-align: center;
+}
+/*container*/
+.container
+{
+    max-width: 100%;
+    margin: 0 auto;
+}
+/*forms*/
+.form-group
+{
+    padding: 0.25rem ;
+}
+.form-group label
+{
+    display: block;
+}
+.contact-form .form-group .form-control
+{
+    width: 100%;
+    padding:0.5rem ;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 0.6rem;
+}

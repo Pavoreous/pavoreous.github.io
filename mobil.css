@@ -1,0 +1,27 @@
+#navbar
+{
+    flex-direction: column;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    overflow: hidden;
+    height: 90px;
+}
+#navbar ul li a
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#training .items
+{
+    display: flex;
+    flex-direction: column;
+}
+#training .items .item
+{
+    width: 100%;
+}
+.courses .course
+{
+    flex-direction: column;
+    align-items: center;
+}
